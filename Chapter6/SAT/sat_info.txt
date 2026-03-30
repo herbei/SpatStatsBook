@@ -1,0 +1,21 @@
+
+US Average SAT scores by state in 1999
+------------------------------------------------------------
+
+oname:  An abbreviated state name.
+
+vscore: The average verbal SAT score, by state for 1999.
+
+mscore: The average math SAT score, by state for 1999.
+
+pc:     The percentage taking the exam.
+
+name:   The name of the state
+
+
+
+Ref:
+
+M. M. Wall (2004) A close look at the spatial structure implied by the
+CAR and SAR models. Journal of Statistical Planning and Inference,
+121:311–324.
